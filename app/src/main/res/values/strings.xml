@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">MyZoo</string>
+
+    <array name="animals">
+        <item>Птицы</item>
+        <item>Собаки</item>
+        <item>Коты</item>
+        <item>Змеи</item>
+    </array>
+
+    <array name="dogs">
+        <item>Rotveyler</item>
+        <item>Ovcharka</item>
+    </array>
+
+    <array name="snakes">
+        <item>Gaduka</item>
+        <item>kobra</item>
+    </array>
+
+    <array name="cats">
+        <item>Persickiy</item>
+        <item>Britanec</item>
+    </array>
+
+    <array name="birds">
+        <item>Orel</item>
+        <item>Sova</item>
+    </array>
+</resources>
